@@ -7,6 +7,7 @@ $movies = [
     new Movie("Fast and Furious", "Avventura/Giallo", 2001, 1.46),
     new Movie("21", "Drammatico/Dramma", 2008, 2.03),
     new Movie("Matrix", "Sci-fi/Azione", 1999, 2.16),
+    new Movie("Matrix", "Sci-fi/Azione", 1999, 2.16),
 ];
 
 
